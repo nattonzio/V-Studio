@@ -1,0 +1,12 @@
+C:\Users\ITALIAN IMPORT\AppData\Local\Temporary Projects\Proyecto3030\bin\Debug\Proyecto3030.exe.config
+C:\Users\ITALIAN IMPORT\AppData\Local\Temporary Projects\Proyecto3030\bin\Debug\Proyecto3030.exe
+C:\Users\ITALIAN IMPORT\AppData\Local\Temporary Projects\Proyecto3030\bin\Debug\Proyecto3030.pdb
+C:\Users\ITALIAN IMPORT\AppData\Local\Temporary Projects\Proyecto3030\obj\Debug\Proyecto3030.csprojResolveAssemblyReference.cache
+C:\Users\ITALIAN IMPORT\AppData\Local\Temporary Projects\Proyecto3030\obj\Debug\Proyecto3030.Form1.resources
+C:\Users\ITALIAN IMPORT\AppData\Local\Temporary Projects\Proyecto3030\obj\Debug\Proyecto3030.Properties.Resources.resources
+C:\Users\ITALIAN IMPORT\AppData\Local\Temporary Projects\Proyecto3030\obj\Debug\Proyecto3030.csproj.GenerateResource.Cache
+C:\Users\ITALIAN IMPORT\AppData\Local\Temporary Projects\Proyecto3030\obj\Debug\Proyecto3030.exe
+C:\Users\ITALIAN IMPORT\AppData\Local\Temporary Projects\Proyecto3030\obj\Debug\Proyecto3030.pdb
+C:\Users\ITALIAN IMPORT\Documents\Visual Studio 2012\Projects\Proyecto3030\Proyecto3030\bin\Debug\Proyecto3030.exe.config
+C:\Users\ITALIAN IMPORT\Documents\Visual Studio 2012\Projects\Proyecto3030\Proyecto3030\obj\Debug\Proyecto3030.exe
+C:\Users\ITALIAN IMPORT\Documents\Visual Studio 2012\Projects\Proyecto3030\Proyecto3030\obj\Debug\Proyecto3030.pdb
